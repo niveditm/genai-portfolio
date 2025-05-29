@@ -1,9 +1,11 @@
 # Nivedit's Generative AI portfolio
 My AI learning journey and experiments - courses I've completed and am enrolled in, and projects I'm working on.
 
-[Courses][google.com]
+- [Courses][course-link]
+- Projects (WIP!)
 
-Projects
+[course-link]: https://github.com/niveditm/genai-portfolio/tree/main?tab=readme-ov-file#course-journey-so-far
+
 
 ## Course journey so far:
 
@@ -44,3 +46,11 @@ Six courses in this track:
 
 [![Static Badge](https://img.shields.io/badge/Certification_/_Badge-dark_green?color=%2329903b)](https://www.linkedin.com/learning/certificates/1e5dfd79824ff027f6c3da6319d866cf3bab920825bd9736f4ba6e92183b1808)
 [![Static Badge](https://img.shields.io/badge/Track_/_Course_Link-blue)](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin)
+
+---
+### 4. Databricks Academy Accreditation - Generative AI Fundamentals
+
+Earners of the badge passed the Fundamentals of the Databricks Generative AI accreditation with a score of 70% or higher.
+
+[![Static Badge](https://img.shields.io/badge/Certification_/_Badge-dark_green?color=%2329903b)](https://credentials.databricks.com/482d607e-2bc9-4a8b-9274-4072ebad7a01#acc.lNgsFv7K)
+[![Static Badge](https://img.shields.io/badge/Track_/_Course_Link-blue)](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals)
