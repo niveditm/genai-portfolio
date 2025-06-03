@@ -1,5 +1,5 @@
 # Nivedit's Generative AI portfolio
-## My AI learning journey and experiments - courses I've completed and am enrolled in, and projects I'm working on.
+## My AI learning journey and experiments - courses I've completed and projects I'm working on.
 
 - [Courses][course-link]
 - Projects (WIP!)
