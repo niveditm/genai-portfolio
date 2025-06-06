@@ -83,4 +83,5 @@ The ultimate aspiration is a user-friendly, AI-driven travel guide that signific
 
 [working-with-openai-api]: https://app.datacamp.com/learn/courses/working-with-the-openai-api
 
-[![Static Badge](https://img.shields.io/badge/Source_Code_Link-blue)](https://www.datacamp.com/datalab/w/acdea9e8-fb57-443e-b52d-94074ad1947d/edit)
+[![Static Badge](https://img.shields.io/badge/Source_Code_Link-dark_green?color=%2329903b)](https://www.datacamp.com/datalab/w/acdea9e8-fb57-443e-b52d-94074ad1947d/edit)
+[![Static Badge](https://img.shields.io/badge/Project_Link-blue)](https://app.datacamp.com/learn/projects/1849)
