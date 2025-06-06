@@ -2,10 +2,10 @@
 ## My AI learning journey and experiments - courses I've completed and projects I'm working on.
 
 - [Courses][course-link]
-- Projects (WIP!)
+- [Projects][project-link]
 
 [course-link]: https://github.com/niveditm/genai-portfolio/tree/main?tab=readme-ov-file#course-journey-so-far
-
+[project-link]: https://github.com/niveditm/genai-portfolio/tree/main?tab=readme-ov-file#project-journey-so-far
 
 ## Course journey so far:
 
@@ -71,3 +71,16 @@ Seven courses in this track:
 [![Static Badge](https://img.shields.io/badge/Certification_/_Badge-dark_green?color=%2329903b)](https://www.datacamp.com/completed/statement-of-accomplishment/track/547ad4d5959cb9dfa07e1f6ea347eff454c85fdb)
 [![Static Badge](https://img.shields.io/badge/Track_/_Course_Link-blue)](https://app.datacamp.com/learn/skill-tracks/ai-business-fundamentals)
 
+---
+
+## Project journey so far:
+
+### 1. DataCamp Project: Planning a Trip to Paris with the OpenAI API
+
+Beginner level project, part of the course: [Working with the OpenAI API][working-with-openai-api]
+
+The ultimate aspiration is a user-friendly, AI-driven travel guide that significantly enhances the exploration of Paris. Users will be able to pre-define their questions and receive well-informed answers from the AI, providing a seamless and intuitive travel planning process.
+
+[working-with-openai-api]: https://app.datacamp.com/learn/courses/working-with-the-openai-api
+
+[![Static Badge](https://img.shields.io/badge/Source_Code_Link-blue)](https://www.datacamp.com/datalab/w/acdea9e8-fb57-443e-b52d-94074ad1947d/edit)
